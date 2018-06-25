@@ -1,3 +1,2 @@
 # deeplearning 
 
-## DNN
